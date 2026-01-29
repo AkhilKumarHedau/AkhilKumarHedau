@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on<br>Learning projects in business analytics using SQL, Excel, Power BI, and Python.<br><br>I'm looking to collaborate on<br>Beginner-friendly data and business analysis projects.<br><br>I'm looking for help with<br>Improving my dashboards, SQL queries, and BA case studies.<br><br>I'm currently learning<br>Business analysis fundamentals and data analysis with SQL, Power BI, and Excel.<br><br>Ask me about<br>My journey into business analytics and how I approach simple data projects.<br><br>Fun fact<br>I love cooking, cricket, and cleaning messy data sets.
+**I'm currently working on**<br>Learning projects in business analytics using SQL, Excel, Power BI, and Python.<br><br>**I'm looking to collaborate on**<br>Beginner-friendly data and business analysis projects.<br><br>**I'm looking for help with**<br>Improving my dashboards, SQL queries, and BA case studies.<br><br>**I'm currently learning**<br>Business analysis fundamentals and data analysis with SQL, Power BI, and Excel.<br><br>**Ask me about**<br>My journey into business analytics and how I approach simple data projects.<br><br>**Fun fact**<br>I love cooking, cricket, and cleaning messy data sets.
 
 
 ## 🌐 Socials:
